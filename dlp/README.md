@@ -1,2 +1,2 @@
-# dlwp
-Deep Learning with Python.
+# dlp
+Deep Learning with Python
