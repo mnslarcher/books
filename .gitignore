@@ -1,4 +1,8 @@
 checkpoint*
+ib_code
+pb_code
+sb_code
+__pycache__
 *.ckpt.*
 *.cpickle
 *.csv
