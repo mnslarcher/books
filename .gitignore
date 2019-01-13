@@ -1,5 +1,5 @@
 checkpoint*
-*_code
+code
 __pycache__
 *.ckpt.*
 *.cpickle
