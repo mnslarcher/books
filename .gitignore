@@ -1,5 +1,6 @@
 checkpoint*
 code
+datasets
 __pycache__
 *.ckpt.*
 *.cpickle
